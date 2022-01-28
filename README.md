@@ -1,4 +1,4 @@
-# Covid-19-Statistics-Tracker
+# :chart_with_downwards_trend: Covid-19 Statistics Tracker
 A python GUI app to track live statistics of Covid-19 cases across the world.
 
 ## :wrench: Tech Stack:
